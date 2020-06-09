@@ -1,0 +1,4 @@
+name UFUOMA
+location LAGOS
+skills DIGITAL MARKETING
+fun facts I LOVE LEARNING
